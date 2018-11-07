@@ -42,7 +42,7 @@ html{background: #eee;}
   padding: 16px;}
 
 
-/* 巴拉拉小魔仙~变界面~布铃bling~*/
+/* 巴拉拉小魔仙变界面~布铃~bling~*/
 .token.selector{ color: #ff00ff; }
 .token.property{ color: #FFA500; }
 
