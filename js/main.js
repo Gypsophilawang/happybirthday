@@ -42,7 +42,7 @@ html{background: #eee;}
   padding: 16px;}
 
 
-/* 巴拉拉小魔仙变界面~布铃~bling~*/
+/* 巴拉拉小魔仙~变界面~布铃bling~*/
 .token.selector{ color: #ff00ff; }
 .token.property{ color: #FFA500; }
 
@@ -50,7 +50,7 @@ html{background: #eee;}
 /* Now，放小招了 */
 #code{animation: breath 0.8s infinite alternate-reverse;}
 #code-wrapper{
-  width: 50%; right: 0; position: fixed; 
+  width: 50%; left: 0; position: fixed; 
   height: 100%;}
 
 
