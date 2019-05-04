@@ -96,7 +96,7 @@ var md = `
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="0.1%" color=#FFFFFF SIZE=3>
 # 我是华丽的分割线
 
-    说一点真诚的想法
+说一点真诚的想法
 这一晃认识你又多一年了，
 我俩这又熟了一年，
 唯一不好的就是
