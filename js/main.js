@@ -149,7 +149,7 @@ var md = `
 但是我都一一记住了，        
 
 我这上辈子肯定欠了你不少我寻思。    
-
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="0.1%" color=#FFFFFF SIZE=3>
 
 听到你说最近很忙心情挺烦躁的，       
 
@@ -173,6 +173,7 @@ var md = `
 不要给自己太多压力，    
 
 以后你负责美就完事了~      
+
 
 # Details(of mine)
 
